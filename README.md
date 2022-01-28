@@ -26,7 +26,7 @@ Para testar:
            
            Adicione a despesa a receita colocando apenas um valor sem ponto e com vírgula quando houver centavos:
            
-           ![image](https://user-images.githubusercontent.com/79334834/151545945-95ebee3f-b1fd-405f-91ad-5eded360fab0.png)
+           <img src="https://user-images.githubusercontent.com/79334834/151545945-95ebee3f-b1fd-405f-91ad-5eded360fab0.png" />
 
 
            Para adicionar uma despesa, será necessário colocar um "-"  antes do valor conforme abaixo:
