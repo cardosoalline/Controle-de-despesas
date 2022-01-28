@@ -21,9 +21,7 @@ Para testar:
 
 - [x] Clone este repositório
 - [x] Abra a pasta na ide e dê um run no html para que seja aberto no browser
-
-           No browser:           
-           Adicione a receita colocando apenas um valor sem ponto e com vírgula quando houver centavos e para adicionar uma despesa, será necessário colocar um "-"  antes do valor. Ao clicar no botão Adicionar o item será incluído na lista de transações e o total já será contabilizado conforme a natureza do item.
+- [x] No browser: Adicione a receita colocando apenas um valor sem ponto e com vírgula quando houver centavos e para adicionar uma despesa, será necessário colocar um "-"  antes do valor. Ao clicar no botão Adicionar o item será incluído na lista de transações e o total já será contabilizado conforme a natureza do item.
            
 
            
